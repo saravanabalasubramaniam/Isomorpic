@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.scanner;
+import java.util.Scanner;
 public class Isomorpic
 {  
   public static void main(String args[])
